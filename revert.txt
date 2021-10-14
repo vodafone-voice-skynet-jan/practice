@@ -1,1 +1,4 @@
 learning barach command in git
+this file contin many of user data
+updating code for pull command
+pull again
